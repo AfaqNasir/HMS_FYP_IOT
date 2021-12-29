@@ -27,15 +27,17 @@ IoT based Health Monitoring System. Final Year Project
 
 ![image](https://github.com/AfaqNasir/HMS_FYP_IOT/blob/main/pic/Class%20Diagram.png)
 
-## University of Management & Technology
+# University of Management & Technology
+
+![image](http://3.bp.blogspot.com/-Z0HvpU1IyRk/VZIFHBhVCaI/AAAAAAAAACQ/dTQQAPccTh0/s320/UMT_Logo_Pk.jpeg)
 
 ## Project Advisor:
-### Hina Alam
++ Hina Alam
 
 ## Submitted By:
 
-### Muhammad Afaq Nasir
-### Ali Hamza
-### Saira Babar 
-### Hamza Abdullah 
-### Hassan Aftab 
++ Muhammad Afaq Nasir
++ Ali Hamza
++ Saira Babar 
++ Hamza Abdullah 
++ Hassan Aftab 
