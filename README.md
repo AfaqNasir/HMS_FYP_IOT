@@ -1,3 +1,4 @@
+center https://github.com/AfaqNasir/HMS_FYP_IOT/blob/main/pic/logo.png
 # HMS_FYP_IOT
 IoT based Health Monitoring System. Final Year Project
 
@@ -11,6 +12,18 @@ IoT based Health Monitoring System. Final Year Project
 + Admin login page.
 + Admin panel.
 
+
+# Diagram
+
+### System Arch
+ 
+ 
+ 
+### DFD
+
+https://github.com/AfaqNasir/HMS_FYP_IOT/blob/main/pic/DFD%20level%201%20m.png
+
+### Class
 
 
 # University of Management & Technology
