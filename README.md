@@ -1,5 +1,5 @@
  <h1 align="center"> HMS_FYP_IOT </h1>
- 
+<center>
 
 ![image](https://github.com/AfaqNasir/HMS_FYP_IOT/blob/main/pic/logo.png)
 
@@ -46,3 +46,4 @@
 + Saira Babar 
 + Hamza Abdullah 
 + Hassan Aftab 
+ </center>
