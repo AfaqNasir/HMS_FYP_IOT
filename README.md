@@ -1,4 +1,4 @@
-![image](https://github.com/AfaqNasir/HMS_FYP_IOT/blob/main/pic/logo.png)
+                       ![image](https://github.com/AfaqNasir/HMS_FYP_IOT/blob/main/pic/logo.png)
 # HMS_FYP_IOT
 IoT based Health Monitoring System. Final Year Project
 
