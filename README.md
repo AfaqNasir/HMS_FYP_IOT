@@ -10,3 +10,7 @@ IoT based Health Monitoring System. Final Year Project
 + Doctor Panel.
 + Admin login page.
 + Admin panel.
+
+
+
+# University of Management & Technology
