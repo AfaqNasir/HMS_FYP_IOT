@@ -34,8 +34,6 @@
 
 
 
- ![image](https://seeklogo.com/images/U/university-of-management-and-technology-logo-41C13AC2B5-seeklogo.com.png) 
-
 # University of Management & Technology
 
 ## Project Advisor:
