@@ -30,7 +30,7 @@
 ### Class
 
 ![image](https://github.com/AfaqNasir/HMS_FYP_IOT/blob/main/pic/Class%20Diagram.png)
-![logo](https://user-images.githubusercontent.com/48288031/147666401-500d717b-614d-4711-ba8c-ebaf1e75e87e.png)![logo](https://user-images.githubusercontent.com/48288031/147666408-7df6f9f7-c7be-4685-8ffa-6ba6e44e9c7f.png)
+
 
 
 
