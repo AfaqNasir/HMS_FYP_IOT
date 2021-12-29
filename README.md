@@ -29,7 +29,7 @@ IoT based Health Monitoring System. Final Year Project
 
 # University of Management & Technology
 
-![image](http://3.bp.blogspot.com/-Z0HvpU1IyRk/VZIFHBhVCaI/AAAAAAAAACQ/dTQQAPccTh0/s320/UMT_Logo_Pk.jpeg)
+![image](https://seeklogo.com/images/U/university-of-management-and-technology-logo-41C13AC2B5-seeklogo.com.png) 
 
 ## Project Advisor:
 + Hina Alam
