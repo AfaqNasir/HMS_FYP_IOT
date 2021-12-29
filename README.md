@@ -1,4 +1,6 @@
- ![image](https://github.com/AfaqNasir/HMS_FYP_IOT/blob/main/pic/logo.png)
+# HMS_FYP_IOT
+
+![image](https://github.com/AfaqNasir/HMS_FYP_IOT/blob/main/pic/logo.png)
 
 # IoT based Health Monitoring System. 
 ## Final Year Project
@@ -30,7 +32,7 @@
 
 
  ![image](https://seeklogo.com/images/U/university-of-management-and-technology-logo-41C13AC2B5-seeklogo.com.png) 
-# HMS_FYP_IOT
+
 # University of Management & Technology
 
 ## Project Advisor:
