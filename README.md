@@ -1,6 +1,7 @@
-<img align="center"> ![image](https://github.com/AfaqNasir/HMS_FYP_IOT/blob/main/pic/logo.png) </img>
+ ![image](https://github.com/AfaqNasir/HMS_FYP_IOT/blob/main/pic/logo.png)
 
-IoT based Health Monitoring System. Final Year Project
+# IoT based Health Monitoring System. 
+## Final Year Project
 
 + Node MCU.
 + ECG sensor (AD8232).
