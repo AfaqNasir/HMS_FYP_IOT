@@ -1,4 +1,4 @@
-![image](https://github.com/AfaqNasir/HMS_FYP_IOT/blob/main/pic/logo.png)
+<h1 align="center">![image](https://github.com/AfaqNasir/HMS_FYP_IOT/blob/main/pic/logo.png)</h1>
 IoT based Health Monitoring System. Final Year Project
 
 + Node MCU.
